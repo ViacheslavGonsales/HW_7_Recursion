@@ -1,0 +1,14 @@
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\bin\Debug\net7.0\task3.exe
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\bin\Debug\net7.0\task3.deps.json
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\bin\Debug\net7.0\task3.dll
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\bin\Debug\net7.0\task3.pdb
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.dll
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\refint\task3.dll
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.pdb
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+C:\Users\Gonsales\Desktop\HW_7\HW_7_Recursion\task3\obj\Debug\net7.0\ref\task3.dll
